@@ -5,7 +5,7 @@ export default function Hero() {
       <div className="flex flex-col max-w-6xl sm:flex-row sm:px-5 items-center">
       <div className="px-5 sm:w-[50%] py-3">
       <p className="pl-6 sm:pl-2 font-bold">pono</p>
-      <p className="pl-6 sm:pl-2 text-gray-600">Hawaiian noun</p>
+      <p className="pl-6 sm:pl-2 text-gray-600">Hawaiian word</p>
       <div className="text-center">
       <p className="text-gray-600"> “sense of being and a way to work, act, respect, and treat people and the land to create balance and harmony.”</p>
       </div>
