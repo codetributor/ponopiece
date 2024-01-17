@@ -5,8 +5,11 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'pono piece',
+  title: 'pono piece | create your masterpiece',
   description: 'creating your masterpiece',
+  icons: {
+    icon: "/favicon.png"
+  }
 }
 
 export default function RootLayout({
