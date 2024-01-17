@@ -12,7 +12,7 @@ export default function Hero() {
      
     </div>
     <div className="sm:w-[50%] flex justify-center">
-       <h3 className="text-center my-5 text-gray-600"><span className="font-bold text-black">pono piece</span> is a local workshop to create your masterpiece</h3>
+       <h3 className="text-center my-5 text-gray-600"><span className="font-bold text-black">pono piece</span> is a local writers group to help each other create thier masterpiece</h3>
     </div>
       </div>
       <div className="bg-white px-3 py-2 sm:mt-10 rounded-md shadow-md text-blue-300 hover:scale-105 cursor-pointer hover:text-white hover:bg-blue-300">start the journey</div>
